@@ -1,9 +1,9 @@
 # Russ1000-Stock-Screener
-Screening all stocks in the Russ 1000 index to identify which stocks are likely to have a large move soon.
+Screening all stocks in the Russell 1000 index to identify which stocks are likely to have a large move soon.
 
-All stocks that pass a custom screening algorithm are graphed with the past year's stock data, exponential moving averages, Bollinger bands and ATR ranges are plotted in the top graph.  
+All stocks that pass a custom algorithm are graphed with past year of daily stock closes, exponential moving averages, Bollinger bands and ATR ranges.
 
-John Carter's system of price-momentum analysis technique is plotted in the middle graph.
+John Carter's system of price-momentum swing technique is plotted in the middle graph.
 
 Volume is plotted in the bottom graph. 
 
