@@ -7,3 +7,6 @@ John Carter's system of price-momentum analysis technique is plotted in the midd
 
 Volume is plotted in the bottom graph. 
 
+<img width="603" alt="Stock Screen Screenshot" src="https://user-images.githubusercontent.com/101516958/159083779-df519dd5-3b8d-48c9-a978-b1a8faccb39f.png">
+
+
