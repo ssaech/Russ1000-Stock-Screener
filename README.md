@@ -2,7 +2,7 @@
 Screening all stocks in the Russell 1000 index to identify which stocks are likely to have a large move soon. This tool has been tremendously helpful in my options trading strategy. 
 
 
-All stocks that pass a custom algorithm that targets stocks that are in an overall uptrend but are recovering from a recent price drop.<br/>
+All stocks that pass through a custom algorithm that targets stocks that are in an overall uptrend but are recovering from a recent price drop.<br/>
 Top graph contains one year of daily stock closes, exponential moving averages, Bollinger bands and ATR ranges.<br/>
 Middle graph contains a price-momentum swing technique.<br/>
 Bottom graph contains volume.<br/>
